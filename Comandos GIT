@@ -1,0 +1,3 @@
+git branch primeiroRepositorio //cria uma branch
+git checkout primeiroRepositorio //verifica o nome da branch
+echo 'Essa é uma nova funcionalidade!' > feature.txt //faz uma alteração e salva
